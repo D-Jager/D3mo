@@ -1,11 +1,9 @@
 Hallo!
 
-Dit is een van de projecten waar ik aan heb gewerkt tijdens mijn studie.
-Dit project was gedaan in de derde periode van mijn eerste schooljaar, en is uiteindelijk tweede geworden.
+Dit is een van de meerdere Deep Dives die ik heb gemaakt tijdens mijn studie. Deep Dives zijn, in het kort, projecten waar je vier dagen aan werkt t/m vrijdag, en dan over word beoordeeld.
 
-Op het moment dat dit aan werd gewerkt had ik eigenlijks nog geen C# logica, omdat ik daar niet mee had gewerkt. Ik was namelijk naar JS, Databases enz. gegaan.
-Maar, ik had uiteindelijk aan het inventory systeem gewerkt. zelfs als het niet echt zo goed was... Het was iets?
+Toen we met dit project begonnen had ik nog geen ervaring met C#. Dit komt omdat ik met andere modules bezig was in mijn leerroute. Nu weet ik veel meer over het onderwerp, en ben ik veel verder gekomen dan toen. Wat ik heb gedaan in dit project was alleen het inventaris.
 
-Dit was een van de paar projecten die leuk waren, en waar ik erg veel lol mee heb gehad!
+Dit was een van de paar projecten die leuk waren. Zelfs als ik toen nog weinig kon doen, ben ik er nu een stuk beter in geworden, en heb ik geleerd hiervan.
 
 Dit is trouwens een mobile-game. dus let daar even op!
